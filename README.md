@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hswon30
-- 👀 I’m interested in data analysis and customer relations management solutions 
-- 🌱 I’m currently learning machine learning and NLP in UPenn! 
-- 💼 I'm a co-founder of a leathermaking company based in South Korea, OAS straps. 
-- 💞️ I’m looking to collaborate on any interesting projects that would help small businesses like myself thrive! 
-- 📫 How to reach me: please email me @ oasstraps@gmail.com!
+- 👋 Hi, I’m Hasun @hswon30
+- 👀 I’m interested in data analysis, big data, machine learning, generative AI tuning, and customer relations management solutions.
+- 🌱 I graduated from the University of Pennsylvania's Masters Program in Computer and Information Tech, MCIT.
+- 💼 I also co-founded a leathermaking company based in South Korea, OAS straps. 
+- 💞️ I’m activelty looking to collaborate on any interesting data-driven, dynamic projects that could help small businesses like myself thrive! 
+- 📫 How to reach me: please email me @ oasstraps@gmail.com.
 
 <!---
 hswon30/hswon30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
